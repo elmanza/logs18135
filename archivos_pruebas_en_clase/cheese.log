@@ -1,0 +1,12 @@
+[2022-04-30T09:39:57.811] [INFO] cheese - La suma entre 4 + 5 es 9
+[2022-04-30T09:39:57.817] [ERROR] cheese - {"code":"ERR_HTTP_INVALID_STATUS_CODE"}
+[2022-04-30T09:40:21.297] [INFO] cheese - La suma entre 4 + 5 es 9
+[2022-04-30T09:40:54.371] [FATAL] cheese - Falta información para realizar el servicio
+[2022-04-30T09:40:54.371] [FATAL] cheese - Has enviado un valor no válido para la suma
+[2022-04-30T09:40:54.372] [INFO] cheese - La suma entre 4 + undefined es NaN
+[2022-04-30T09:41:44.935] [FATAL] cheese - Falta información para realizar el servicio
+[2022-04-30T09:41:44.937] [ERROR] cheese - {}
+[2022-04-30T09:41:47.579] [FATAL] cheese - Falta información para realizar el servicio
+[2022-04-30T09:41:47.580] [ERROR] cheese - {}
+[2022-04-30T09:42:07.969] [FATAL] cheese - Has enviado un valor no válido para la suma
+[2022-04-30T09:42:07.969] [ERROR] cheese - {}
